@@ -10,4 +10,4 @@ Welcome to <strong>Bean & Brew Coffee</strong> ☕.
 
 
 
-<?php include "includes/footer.php"; ?>
+<?php include "require/footer.php"; ?>
